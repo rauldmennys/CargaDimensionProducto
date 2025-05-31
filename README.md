@@ -9,7 +9,7 @@
 5. Crear Objetos que pertenecen a ese esquema
     1. Crear Tablas de Linage y IncrementalLoads
     2. Crear Procedimientos almacenados de utileria
-       1. Get_LastLoadedDate.sql
-       2. Get_LineageKey.sql
+       1. **Get_LastLoadedDate.sql**
+       2. **Get_LineageKey.sql**
 6. Con esto en su Lugar podemos empezar con el procedimiento descrito
-   la guia.
+   en la guia.
