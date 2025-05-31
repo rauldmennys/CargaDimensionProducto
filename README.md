@@ -1,5 +1,5 @@
 # CargaDimensionesProducto
-1. Clonar el Repositorio 
+1. Clonar el [Repositorio](https://github.com/rauldmennys/CargaDimensionProducto.git)
 2. Restaurar backup Demo
     1. Crear Procedimiento almacenado que movera los datos hacia 
        el staging en DemoDW
